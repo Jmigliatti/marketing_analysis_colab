@@ -1,4 +1,4 @@
-# marketing_analysis_colab
+# Marketing Analysis Colab
 
 Este repositório contém um estudo referente a campanhas de marketing passadas, com foco na análise de dados dos clientes que compraram os produtos. O trabalho inclui:
 
