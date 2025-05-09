@@ -2,6 +2,7 @@
 
 Este repositório contém um estudo referente a campanhas de marketing passadas, com foco na análise de dados dos clientes que compraram os produtos. O trabalho inclui:
 
+- Pré-processamento dos dados para retirar objetos com atributos nulos e outliers;
 - Análise exploratória de dados (EDA) para compreender o comportamento dos consumidores;
 - Criação de modelos preditivos utilizando técnicas tradicionais de Machine Learning, com o objetivo de prever a aceitação dos clientes em uma nova campanha de marketing.
 
